@@ -1,8 +1,8 @@
 # Differences between Emerging and Developed markets
-<div style='text-align: justify;'>
+<p align="justify">
 This repository aims to contribute to a deeper understanding of the dynamic linkages among stock market indices from emerging and developed countries. The dataset consists of four emerging (Brazil, China, Greece, India) and two developed (the US, Germany) markets that span a period between January 2016 and April 2023.
-</div> 
-<div style='text-align: justify;'>
+</p> 
+<p align="justify">
 The relationship between international markets is an important issue for investors and researchers. Global markets present complex dynamics and 
 interdependences, forming a dynamic ecosystem where various financial products and assets interact. Markets are distinguished between developed
 and emerging according to their economic stability, political risk, financial system maturity, and market regulatory framework. Generally, developing
@@ -10,7 +10,7 @@ markets tend to have higher systematic risk and growth expectations. To reduce t
 add stocks from emerging markets to portfolios that contain financial products from advanced markets. However, financial liberalization and global 
 trade agreements made financial markets more cointegrated. Consequently, the information transmission among the international stock markets can 
 cause a financial contagious effect that vanishes potential diversification opportunities.
-</div>
+</p>
 
 <u>The primary objectives are threefold:</u>  
 1) A comparison between the different time-series dynamics and relationships between emerging and advanced markets will be conducted.  
